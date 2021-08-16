@@ -1,0 +1,27 @@
+*{margin: 0;
+    padding:0;
+    box-sizing:border-box;
+  }
+  
+  #img-div {
+      position:relative ;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      width: 500px;
+      height: 500px;
+
+  
+  }
+  #image {
+      
+      position: absolute;
+      max-width: 1300px;
+      
+
+      
+
+  
+  
+  
+  }
